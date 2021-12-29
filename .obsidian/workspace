@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "ca5c7a5b3bc09484",
+    "type": "split",
+    "children": [
+      {
+        "id": "846d12fa550e00e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "diploma.md",
+            "mode": "source"
+          }
+        },
+        "group": "8a91224464299d46"
+      },
+      {
+        "id": "e573fe0674652289",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "diploma.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8a91224464299d46"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "637c29afe0a57b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a800083fb74a3b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d22d532f451888",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff8139533bc0555d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 175,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9f30e78ee479ac3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e60c4d47e144037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0cd70d3bfffc646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "diploma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "846d12fa550e00e7",
+  "lastOpenFiles": [
+    "diploma.md"
+  ]
+}
